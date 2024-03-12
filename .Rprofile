@@ -15,5 +15,5 @@ options(
   blogdown.method = "markdown"
 )
 
-# pin Hugo version
+#pin Hugo version
 options(blogdown.hugo.version = "0.123.8")
