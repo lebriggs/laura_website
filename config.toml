@@ -92,7 +92,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "mastodon" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://hachyderm.io/lebriggs271gsd1"
+      url       = "https://hachyderm.io/@lebriggs271gsd1"
 
 [taxonomies]
   category = "categories"
