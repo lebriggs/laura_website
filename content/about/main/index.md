@@ -2,7 +2,7 @@
 ## Configure page content in wide column
 title: "Lately" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
-number_categories: 1 # set to zero to exclude (was 3)
+number_categories: 2 # set to zero to exclude (was 3)
 show_intro: true
 intro: |
   I've been thinking a lot about prompt design for ChatGPT and how I can use a large language model to facilitate data cleaning in R.
