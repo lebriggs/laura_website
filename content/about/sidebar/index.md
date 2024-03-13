@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
-avatar_shape: rounded # circle, square, rounded
+author: "Laura Briggs"
+role: "STEM Librarian | Data Science | Nerd"
+avatar_shape: round # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
-audio_link_label: "How to say my name"
+show_audio_link: false
+audio_link_label: ""
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Best Zombie Book Series
+  url: https://www.goodreads.com/en/book/show/25018910
+- name: Most Delicious Coffee
+  url: https://aeropress.com/products/aeropress-go-travel-coffee-press
+- name: Increase Engagement In Your Teaching
+  url: https://www.facilitator.cards/blog/
 ---
 
 ** index doesn't contain a body, just front matter above.
