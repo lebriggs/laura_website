@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  A Hugo theme made for R Markdown users.
+  A personal website for Laura Briggs.
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
