@@ -1,7 +1,7 @@
 ---
 title: Presentations
-description: 
-"Materials from my recent presentations, including slides, whiteboards, and other resources that can be shared."
+description: |
+  This is a list for your talks, workshops, or other events with a time, date, and place.
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
