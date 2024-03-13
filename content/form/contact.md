@@ -9,8 +9,8 @@ type: form
 layout: split-right # split-right or split-left
 submit_button_label: Send Message
 show_social_links: true # specify social accounts in site config
-show_poweredby_formspree: false
-formspree_form_id: laura_e_briggs@live.ca
+show_poweredby_formspree: true
+formspree_form_id: f/xeqyzner
 ---
 
 ** Contact page don't contain a body, just the front matter above.
