@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
-description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+title: Presentations
+description: 
+Materials from my recent presentations, including slides, whiteboards, and other resources that can be shared.
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -14,8 +14,8 @@ layout: list # list, list-sidebar
 sidebar: 
   title: Talks that Last
   description: |
-    This is a list for your talks, workshops, or 
     other events with a time, date, and place. 
+    This is a list for your talks, workshops, or 
     Even this sidebar offers a ton of customizations.
     
     Check out the _index.md file in the /talk folder 
@@ -27,7 +27,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "L. E. Briggs"
   show_author_byline: true
   show_post_date: true
   show_post_time: true
