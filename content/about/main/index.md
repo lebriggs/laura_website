@@ -1,11 +1,11 @@
 ---
 ## Configure page content in wide column
-title: "What I'm up to lately" # leave blank to exclude
+title: "Lately" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude (was 3)
 show_intro: true
 intro: |
-  Cultures clash as I adjust to the challenges of life in Paris while juggling my career, new friendships, and love life. Here is how to catch up with me lately!
+  I've been thinking a lot about prompt design for large language models and how I can use ChatGPT for data cleaning in R.
 show_outro: true
 outro: |
   <i class="fas fa-hand-spock"></i> Thank you for visiting my site!
