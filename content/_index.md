@@ -5,6 +5,8 @@ description: "I first started out in organometallic chemistry because, let’s f
 
 
 Within my website, you’ll discover my writings about some fun personal projects I’ve worked on. You’ll also find links to presentations I’ve given. In my presentations, I always try to include a reflective element because I think it’s important to discuss the choices I’ve made."
+
+
 date: 2024-03-13T12:27:33-06:00
 images:
   - img/bosco.jpg
