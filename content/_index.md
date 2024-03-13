@@ -8,7 +8,7 @@ Within my website, you’ll discover my writings about some fun personal project
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/bosco.jpg
-image_left: false
+image_left: true
 text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
