@@ -1,6 +1,6 @@
 ---
 title: "License"
-description: The "kitchen sink," if you will ... a page showing examples of type and page elements included in this template.
+description: The Creative Commons license applied to my blog.
 draft: false
 # layout options are standard (default) or wide-body
 layout: standard
