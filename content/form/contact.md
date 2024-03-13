@@ -1,7 +1,7 @@
 ---
-title: Contact Me
+title: Contact Laura
 name: Contact Us Form
-description: "This form is for asking questions or if you would like to connect with me about working together on a project."
+description: "Ask a question or connect with me about working on a project together."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
