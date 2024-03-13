@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://lebriggs.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Laura Briggs"
@@ -28,11 +28,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "L. E. Briggs"
+  orgLocal = "Wheatley, ON"
+  description = "Within my website, you’ll discover my writings about some fun personal projects I’ve worked on. You’ll also find links to presentations I’ve given."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/paw2.jpg"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -129,7 +129,7 @@ enableEmoji = true
     weight = 1
   [[menu.footer]]
     name = "Contact"
-    title = "Contact form"
+    title = "Contact Form"
     url = "/contact/"
     weight = 2
 
