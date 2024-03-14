@@ -18,6 +18,7 @@ categories:
 - social media data
 - informed consent
 - mind map
+- data plan
 - R
 links:
 - icon: slideshare

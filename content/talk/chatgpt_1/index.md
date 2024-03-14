@@ -17,8 +17,10 @@ categories:
 - chatgpt
 - prompt design
 - information literacy framework
+- diagram
 - data cleaning
 - R
+- GSD data
 links:
 - icon: slideshare
   icon_pack: fab
