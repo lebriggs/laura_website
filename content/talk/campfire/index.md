@@ -4,7 +4,7 @@ subtitle: ""
 excerpt: "A photo of my late husband and his dog has been viral on Tumblr since 2022. The Tumblr community has forged a deep emotional connection with this image, to the extent that many users consider Martin and Bosco to be their beloved friends. The post is a rich source of publicly accessible data, offering valuable insights into aspects such as user engagement, viral dynamics, community development, and cross-platform content dissemination. So, why, did I, an intrepid data enthusiast, decide not to analyze this dataset? Let’s talk about it!"
 date: 2023-12-12
 date_end: ""
-show_post_time: 10:00 AM
+show_post_time: false
 event: "University of Victoria"
 event_url: ""
 author: "Laura Briggs"
