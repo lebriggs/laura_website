@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT For Data Cleaning: Navigating The InfoLit Framework"
 subtitle: ""
-excerpt: "The whiteboard outlines a discussion of how ChatGPT-3.5 can be used to facilitate data cleaning in R. Includes a process diagram and a complex example requiring a regular expression. Download the R script for the example."
+excerpt: "The whiteboard presents a discussion on leveraging ChatGPT-3.5 to streamline data cleaning tasks in R. It features a flow diagram highlighting the iterative steps involved in the process and demonstrates how the information literacy framework is relevant. To illustrate the concept, a complex example utilizing a regular expression is provided alongside the diagram. You can access the R script for this example by downloading it"
 date: 2024-02-01
 date_end: ""
 show_post_time: false
