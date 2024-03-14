@@ -17,6 +17,7 @@ categories:
 - tumblr
 - social media data
 - informed consent
+- mind map
 - R
 links:
 - icon: slideshare
