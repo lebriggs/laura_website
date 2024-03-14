@@ -15,6 +15,7 @@ layout: single
 categories:
 - presentation
 - chatgpt
+- prompt design
 - information literacy framework
 - data cleaning
 - R
