@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Laura Briggs"
-role: "STEM Librarian | Data Science | Nerd"
+role: "STEM Librarian | Data Enthusiast | Nerd"
 avatar_shape: square # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false
