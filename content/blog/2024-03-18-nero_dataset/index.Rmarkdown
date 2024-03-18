@@ -10,6 +10,8 @@ series:
 tags:
 categories:
   - GSD data
+  - workshop
+  - data cleaning
 layout: single
 ---
 
