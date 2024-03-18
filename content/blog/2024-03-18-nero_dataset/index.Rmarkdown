@@ -117,9 +117,15 @@ nero_data %>%
       ZW = md("**ZW**")
     ) %>%
     tab_options(
-      data_row.padding = px(4)
+      #apply options to center the title
+      heading.align = "center"
+    ) %>%
+    #Increase the cell spacing
+    tab_style(
+      style = list(cellPadding = px(50)),
+      locations = cells_body()
     )
-      
+ 
     
 ```
 
