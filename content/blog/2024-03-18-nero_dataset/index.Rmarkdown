@@ -104,21 +104,23 @@ nero_data %>%
   gt() %>%
     #add a title
     tab_header(
-    title = md("**Nero vom Buchonia Offspring Data**")
-    ) %>%
+      title = md("**Nero vom Buchonia Offspring Data**")
+      ) %>%
     #bold and format the column names
     cols_label(
-    Name = md("**Name**"),
-    KKL = md("**KKL**"),
-    BirthDate = md("**Birth Date**"),
-    Sex = md("**Sex**"),
-    Colour = md("**Colour**"),
-    HipsAndElbowsRating = md("**Hips And Elbows Rating**"),
-    ZW = md("**ZW**")
+      Name = md("**Name**"),
+      KKL = md("**KKL**"),
+      BirthDate = md("**Birth Date**"),
+      Sex = md("**Sex**"),
+      Colour = md("**Colour**"),
+      HipsAndElbowsRating = md("**Hips And Elbows Rating**"),
+      ZW = md("**ZW**")
     ) %>%
-    #apply a preset style theme to the table  
-    opt_stylize(style = 2, color = "blue")
-   
+    tab_options(
+      data_row.padding = px(4)
+    )
+      
+    
 ```
 
 
