@@ -1,7 +1,7 @@
 ---
-title: "Dataset For The Data Pre-Analysis PLan Workshop"
-subtitle: "Nero Vom Buchonia Offspring Data"
-excerpt: "Summary goes here."
+title: "Information For The Data Pre-Analysis PLan Workshop"
+subtitle: "Instructions And Dataset"
+excerpt: "Information required for a 30-minute hands-on workshop exploring the world of effective data pre-analysis planning using Canva. Through a real dataset example, we'll tackle challenges like a myopic view of your data and work together to enhance your data analysis decision-making skills. Ever wished for a visual aid to communicate your analysis plan? You're in luck! No previous knowledge of Canva is needed – just bring your curiosity and enthusiasm!"
 date: 2024-03-18
 author: "Laura Briggs"
 draft: false
@@ -17,60 +17,62 @@ layout: single
 
 {{< here >}}
 
-## Some penguins to start
 
 
-```r
-#library(tidyverse)
-#library(palmerpenguins)
-```
+### A Data Pre-Analysis Plan Using Canva: Workshop Description
+
+This 30-minute hands-on workshop will introduce you to the world of effective data pre-analysis planning using Canva. Delivered through a completed example with a real dataset, you'll gain insights into overcoming challenges such as a myopic view of your data and improving your data analysis decision-making skills. Wish you had a visual aid to communicate your analysis plan? Then join me for a practical session that transforms how you approach data analysis! No previous knowledge of Canva is required.
+
+## Intended Audience
+
+This workshop is designed for anyone who has a keen interest in data analysis. No previous knowledge of the tool, Canva, is required. However, it will be helpful if you have an understanding of a few fundamental terms used in R Studio such as categorical variable and dataframe. Questions are encouraged during the workshop!
+
+Faculty Members
+Graduate Students
+Undergraduate Students
+UVic Staff
+General Public
+
+## Learning Outcomes
+
+By the end of this workshop, participants will be able to:
+
+Understand the advantages of creating a data pre-analysis plan in Canva. 
+Identify the six sections of a robust data pre-analysis plan. 
+Know how to add and read comments on an existing data pre-analysis plan in Canva.
+Recognize when and how to integrate a data pre-analysis plan into their own projects.
+Leave with an editable version of the example discussed in the workshop that can be modified to suit their own work. 
+
+## Agenda
+
+The agenda for today's workshop is outlined below.
+
+1. Introduction & Demonstration of the Data Pre-Analysis Plan in Canva (7 min)
+2. Explanation of the Activity (3 min)
+3. The Activity (10 min)
+4. Group Discussion (5 min)
+5. Additional Resources (2 min)
+
+## Description Of The Dataset Used To Create The Example
+
+The Nero vom Buchonia dataset contains show ratings, performance titles, and health information about the offspring of a male workingline German Shepherd Dog named G Nero vom Buchonia IGP3 KKL.
+It represents a typical dataset observed in the context of German Shepherd Dog (GSD) breeding. Note that it uses specialized terminology that might be unfamiliar to you. 
+There are missing values in the dataset. 
+The information is derived from a mixture of public and private data sources.
+
+### It's important to note that:
+
+The table below is only a small subset of a much larger dataset. 
+No data dictionary is available, a common feature of canine datasets.
+For educational purposes, web scraping is permitted in order to access the data for analysis.
+
+### Acknowledgement:
+
+Thank you to Jennifer Lee, Nero's owner, for generously granting permission to use this dataset during the workshop.
+
+## The Dataset: Nero vom Buchonia’s Offspring
 
 
 
 
-
-
-## Fame was like a drug. But what was even more like a drug were the drugs.
-
-Jesus must be spinning in his grave! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. Marge, it takes two to lie. One to lie and one to listen.
-
-Oh, I'm in no condition to drive. Wait a minute. I don't have to listen to myself. I'm drunk. And here I am using my own lungs like a sucker. __How is education supposed to make me feel smarter?__ *Besides, every time I learn something new, it pushes some old stuff out of my brain.* Remember when I took that home winemaking course, and I forgot how to drive?
-
-## What's the point of going out? We're just going to wind up back here anyway.
-
-Uh, no, they're saying "Boo-urns, Boo-urns." Donuts. Is there anything they can't do? Weaseling out of things is important to learn. It's what separates us from the animals…except the weasel. When I held that gun in my hand, I felt a surge of power…like God must feel when he's holding a gun.
-
-1. I like my beer cold, my TV loud and my homosexuals flaming.
-2. I don't like being outdoors, Smithers. For one thing, there's too many fat children.
-3. I can't go to juvie. They use guys like me as currency.
-
-### Your questions have become more redundant and annoying than the last three "Highlander" movies.
-
-Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. I prefer a vehicle that doesn't hurt Mother Earth. It's a go-cart, powered by my own sense of self-satisfaction.
-
-* You know, the one with all the well meaning rules that don't work out in real life, uh, Christianity.
-* Your questions have become more redundant and annoying than the last three "Highlander" movies.
-* D'oh.
-
-Beer. Now there's a temporary solution. I didn't think it was physically possible, but this both sucks *and* blows. …And the fluffy kitten played with that ball of string all through the night. On a lighter note, a Kwik-E-Mart clerk was brutally murdered last night.
-
-Fame was like a drug. But what was even more like a drug were the drugs. I can't go to juvie. They use guys like me as currency. Marge, you being a cop makes you the man! Which makes me the woman — and I have no interest in that, besides occasionally wearing the underwear, which as we discussed, is strictly a comfort thing.
-
-Stan Lee never left. I'm afraid his mind is no longer in mint condition. I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business.
-
-And now, in the spirit of the season: start shopping. And for every dollar of Krusty merchandise you buy, I will be nice to a sick kid. For legal purposes, sick kids may include hookers with a cold. I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business.
-
-Stan Lee never left. I'm afraid his mind is no longer in mint condition. I'm a Spalding Gray in a Rick Dees world. Get ready, skanks! It's time for the truth train! Brace yourselves gentlemen. According to the gas chromatograph, the secret ingredient is… Love!? Who's been screwing with this thing?
-
-D'oh. Son, a woman is like a beer. They smell good, they look good, you'd step over your own mother just to get one! But you can't stop at one. You wanna drink another woman! Marge, it takes two to lie. One to lie and one to listen.
-
-I'll keep it short and sweet — Family. Religion. Friendship. These are the three demons you must slay if you wish to succeed in business. And now, in the spirit of the season: start shopping. And for every dollar of Krusty merchandise you buy, I will be nice to a sick kid. For legal purposes, sick kids may include hookers with a cold.
-
-Oh, I'm in no condition to drive. Wait a minute. I don't have to listen to myself. I'm drunk. And here I am using my own lungs like a sucker. I stand by my racial slur. Fat Tony is a cancer on this fair city! He is the cancer and I am the…uh…what cures cancer?
-
-Last night's "Itchy and Scratchy Show" was, without a doubt, the worst episode *ever.* Rest assured, I was on the Internet within minutes, registering my disgust throughout the world. Stan Lee never left. I'm afraid his mind is no longer in mint condition.
-
-I hope this has taught you kids a lesson: kids never learn. Brace yourselves gentlemen. According to the gas chromatograph, the secret ingredient is… Love!? Who's been screwing with this thing? Books are useless! I only ever read one book, "To Kill A Mockingbird," and it gave me absolutely no insight on how to kill mockingbirds! Sure it taught me not to judge a man by the color of his skin…but what good does *that* do me?
-
-Please do not offer my god a peanut. Bart, with $10,000 we'd be millionaires! We could buy all kinds of useful things like…love! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom.
 
