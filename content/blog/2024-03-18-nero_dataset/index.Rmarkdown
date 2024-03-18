@@ -1,7 +1,10 @@
 ---
 title: "Information For The Data Pre-Analysis PLan Workshop"
 subtitle: "Instructions And Dataset"
-excerpt: "Information required for a 30-minute hands-on workshop exploring the world of effective data pre-analysis planning using Canva. Through a real dataset example, we'll tackle challenges like a myopic view of your data and work together to enhance your data analysis decision-making skills. Ever wished for a visual aid to communicate your analysis plan? You're in luck! No previous knowledge of Canva is needed – just bring your curiosity and enthusiasm!"
+excerpt: "Information required for a 30-minute hands-on workshop exploring the world of effective data pre-analysis planning using Canva. 
+
+
+Through a real dataset example, we'll tackle challenges like a myopic view of your data and work together to enhance your data analysis decision-making skills. Ever wished for a visual aid to communicate your analysis plan? You're in luck! No previous knowledge of Canva is needed – just bring your curiosity and enthusiasm!"
 date: 2024-03-18
 author: "Laura Briggs"
 draft: false
@@ -35,11 +38,11 @@ This 30-minute hands-on workshop will introduce you to the world of effective da
 
 This workshop is designed for anyone who has a keen interest in data analysis. No previous knowledge of the tool, Canva, is required. However, it will be helpful if you have an understanding of a few fundamental terms used in R Studio such as categorical variable and dataframe. Questions are encouraged during the workshop!
 
-Faculty Members
-Graduate Students
-Undergraduate Students
-UVic Staff
-General Public
+* Faculty Members
+* Graduate Students
+* Undergraduate Students
+* UVic Staff
+* General Public
 
 ## Learning Outcomes
 
