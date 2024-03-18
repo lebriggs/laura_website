@@ -34,7 +34,7 @@ lapply(r_packages, require, character.only = TRUE)
 
 This 30-minute hands-on workshop will introduce you to the world of effective data pre-analysis planning using Canva. Delivered through a completed example with a real dataset, you'll gain insights into overcoming challenges such as a myopic view of your data and improving your data analysis decision-making skills. Wish you had a visual aid to communicate your analysis plan? Then join me for a practical session that transforms how you approach data analysis! No previous knowledge of Canva is required.
 
-## Intended Audience
+### Intended Audience
 
 This workshop is designed for anyone who has a keen interest in data analysis. No previous knowledge of the tool, Canva, is required. However, it will be helpful if you have an understanding of a few fundamental terms used in R Studio such as categorical variable and dataframe. Questions are encouraged during the workshop!
 
@@ -44,7 +44,7 @@ This workshop is designed for anyone who has a keen interest in data analysis. N
 * UVic Staff
 * General Public
 
-## Learning Outcomes
+### Learning Outcomes
 
 By the end of this workshop, participants will be able to:
 
@@ -54,7 +54,7 @@ Know how to add and read comments on an existing data pre-analysis plan in Canva
 Recognize when and how to integrate a data pre-analysis plan into their own projects.
 Leave with an editable version of the example discussed in the workshop that can be modified to suit their own work. 
 
-## Agenda
+### Agenda
 
 The agenda for today's workshop is outlined below.
 
@@ -64,7 +64,7 @@ The agenda for today's workshop is outlined below.
 4. Group Discussion (5 min)
 5. Additional Resources (2 min)
 
-## Description Of The Dataset Used To Create The Example
+### Description Of The Dataset Used To Create The Example
 
 The Nero vom Buchonia dataset contains show ratings, performance titles, and health information about the offspring of a male workingline German Shepherd Dog named G Nero vom Buchonia IGP3 KKL.
 It represents a typical dataset observed in the context of German Shepherd Dog (GSD) breeding. Note that it uses specialized terminology that might be unfamiliar to you. 
@@ -81,7 +81,7 @@ For educational purposes, web scraping is permitted in order to access the data 
 
 Thank you to Jennifer Lee, Nero's owner, for helping to create this dataset for the workshop.
 
-## The Dataset: Nero vom Buchonia’s Offspring
+### The Dataset: Nero vom Buchonia’s Offspring
 
 ```{r Offspring Data, include=FALSE}
 #create the dataframe for the Nero vom Buchonia offspring data
@@ -102,6 +102,11 @@ nero_data <- data.frame("Name" = c("G Nero vom Buchonia IGP3", "Faine Auf der Ma
 
 nero_data %>%
   gt() %>%
+    #prevent the cells from breaking at hyphens
+    text_transform(
+      locations = cells_body(),  #apply to body cells
+      fn = function(x) gsub("-", "\u2011", x)  #replace hyphens with non-breaking            hyphens
+    ) %>%
     #add a title
     tab_header(
       title = md("**Nero vom Buchonia Offspring Data**")
@@ -120,9 +125,9 @@ nero_data %>%
       #apply options to center the title
       heading.align = "center"
     ) %>%
-    #Increase the cell spacing
+    #increase the cell spacing
     tab_style(
-      style = list(cellPadding = px(50)),
+      style = list(cellPadding = px(100)),
       locations = cells_body()
     )
  

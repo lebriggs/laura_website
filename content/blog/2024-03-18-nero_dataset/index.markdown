@@ -24,7 +24,7 @@ layout: single
 
 This 30-minute hands-on workshop will introduce you to the world of effective data pre-analysis planning using Canva. Delivered through a completed example with a real dataset, you’ll gain insights into overcoming challenges such as a myopic view of your data and improving your data analysis decision-making skills. Wish you had a visual aid to communicate your analysis plan? Then join me for a practical session that transforms how you approach data analysis! No previous knowledge of Canva is required.
 
-## Intended Audience
+### Intended Audience
 
 This workshop is designed for anyone who has a keen interest in data analysis. No previous knowledge of the tool, Canva, is required. However, it will be helpful if you have an understanding of a few fundamental terms used in R Studio such as categorical variable and dataframe. Questions are encouraged during the workshop!
 
@@ -34,7 +34,7 @@ This workshop is designed for anyone who has a keen interest in data analysis. N
 - UVic Staff
 - General Public
 
-## Learning Outcomes
+### Learning Outcomes
 
 By the end of this workshop, participants will be able to:
 
@@ -44,7 +44,7 @@ Know how to add and read comments on an existing data pre-analysis plan in Canva
 Recognize when and how to integrate a data pre-analysis plan into their own projects.
 Leave with an editable version of the example discussed in the workshop that can be modified to suit their own work.
 
-## Agenda
+### Agenda
 
 The agenda for today’s workshop is outlined below.
 
@@ -54,7 +54,7 @@ The agenda for today’s workshop is outlined below.
 4.  Group Discussion (5 min)
 5.  Additional Resources (2 min)
 
-## Description Of The Dataset Used To Create The Example
+### Description Of The Dataset Used To Create The Example
 
 The Nero vom Buchonia dataset contains show ratings, performance titles, and health information about the offspring of a male workingline German Shepherd Dog named G Nero vom Buchonia IGP3 KKL.
 It represents a typical dataset observed in the context of German Shepherd Dog (GSD) breeding. Note that it uses specialized terminology that might be unfamiliar to you.
@@ -71,22 +71,22 @@ For educational purposes, web scraping is permitted in order to access the data 
 
 Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset for the workshop.
 
-## The Dataset: Nero vom Buchonia’s Offspring
+### The Dataset: Nero vom Buchonia’s Offspring
 
-<div id="pherfncvzi" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#pherfncvzi table {
+<div id="dcxyerygkw" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#dcxyerygkw table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#pherfncvzi thead, #pherfncvzi tbody, #pherfncvzi tfoot, #pherfncvzi tr, #pherfncvzi td, #pherfncvzi th {
+&#10;#dcxyerygkw thead, #dcxyerygkw tbody, #dcxyerygkw tfoot, #dcxyerygkw tr, #dcxyerygkw td, #dcxyerygkw th {
   border-style: none;
 }
-&#10;#pherfncvzi p {
+&#10;#dcxyerygkw p {
   margin: 0;
   padding: 0;
 }
-&#10;#pherfncvzi .gt_table {
+&#10;#dcxyerygkw .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -111,11 +111,11 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_caption {
+&#10;#dcxyerygkw .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#pherfncvzi .gt_title {
+&#10;#dcxyerygkw .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -126,7 +126,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#pherfncvzi .gt_subtitle {
+&#10;#dcxyerygkw .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -137,7 +137,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#pherfncvzi .gt_heading {
+&#10;#dcxyerygkw .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -148,12 +148,12 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_bottom_border {
+&#10;#dcxyerygkw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_col_headings {
+&#10;#dcxyerygkw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -167,7 +167,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_col_heading {
+&#10;#dcxyerygkw .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -186,7 +186,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#pherfncvzi .gt_column_spanner_outer {
+&#10;#dcxyerygkw .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -197,13 +197,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#pherfncvzi .gt_column_spanner_outer:first-child {
+&#10;#dcxyerygkw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#pherfncvzi .gt_column_spanner_outer:last-child {
+&#10;#dcxyerygkw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#pherfncvzi .gt_column_spanner {
+&#10;#dcxyerygkw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -214,10 +214,10 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   display: inline-block;
   width: 100%;
 }
-&#10;#pherfncvzi .gt_spanner_row {
+&#10;#dcxyerygkw .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#pherfncvzi .gt_group_heading {
+&#10;#dcxyerygkw .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -242,7 +242,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   vertical-align: middle;
   text-align: left;
 }
-&#10;#pherfncvzi .gt_empty_group_heading {
+&#10;#dcxyerygkw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -256,13 +256,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#pherfncvzi .gt_from_md > :first-child {
+&#10;#dcxyerygkw .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#pherfncvzi .gt_from_md > :last-child {
+&#10;#dcxyerygkw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#pherfncvzi .gt_row {
+&#10;#dcxyerygkw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -280,7 +280,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#pherfncvzi .gt_stub {
+&#10;#dcxyerygkw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -292,7 +292,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#pherfncvzi .gt_stub_row_group {
+&#10;#dcxyerygkw .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -305,13 +305,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#pherfncvzi .gt_row_group_first td {
+&#10;#dcxyerygkw .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#pherfncvzi .gt_row_group_first th {
+&#10;#dcxyerygkw .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#pherfncvzi .gt_summary_row {
+&#10;#dcxyerygkw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -320,14 +320,14 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#pherfncvzi .gt_first_summary_row {
+&#10;#dcxyerygkw .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_first_summary_row.thick {
+&#10;#dcxyerygkw .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#pherfncvzi .gt_last_summary_row {
+&#10;#dcxyerygkw .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -336,7 +336,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_grand_summary_row {
+&#10;#dcxyerygkw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -345,7 +345,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#pherfncvzi .gt_first_grand_summary_row {
+&#10;#dcxyerygkw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -354,7 +354,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_last_grand_summary_row_top {
+&#10;#dcxyerygkw .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -363,10 +363,10 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_striped {
+&#10;#dcxyerygkw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#pherfncvzi .gt_table_body {
+&#10;#dcxyerygkw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -374,7 +374,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_footnotes {
+&#10;#dcxyerygkw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -387,7 +387,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_footnote {
+&#10;#dcxyerygkw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -395,7 +395,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#pherfncvzi .gt_sourcenotes {
+&#10;#dcxyerygkw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -408,57 +408,57 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#pherfncvzi .gt_sourcenote {
+&#10;#dcxyerygkw .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#pherfncvzi .gt_left {
+&#10;#dcxyerygkw .gt_left {
   text-align: left;
 }
-&#10;#pherfncvzi .gt_center {
+&#10;#dcxyerygkw .gt_center {
   text-align: center;
 }
-&#10;#pherfncvzi .gt_right {
+&#10;#dcxyerygkw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#pherfncvzi .gt_font_normal {
+&#10;#dcxyerygkw .gt_font_normal {
   font-weight: normal;
 }
-&#10;#pherfncvzi .gt_font_bold {
+&#10;#dcxyerygkw .gt_font_bold {
   font-weight: bold;
 }
-&#10;#pherfncvzi .gt_font_italic {
+&#10;#dcxyerygkw .gt_font_italic {
   font-style: italic;
 }
-&#10;#pherfncvzi .gt_super {
+&#10;#dcxyerygkw .gt_super {
   font-size: 65%;
 }
-&#10;#pherfncvzi .gt_footnote_marks {
+&#10;#dcxyerygkw .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#pherfncvzi .gt_asterisk {
+&#10;#dcxyerygkw .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#pherfncvzi .gt_indent_1 {
+&#10;#dcxyerygkw .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#pherfncvzi .gt_indent_2 {
+&#10;#dcxyerygkw .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#pherfncvzi .gt_indent_3 {
+&#10;#dcxyerygkw .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#pherfncvzi .gt_indent_4 {
+&#10;#dcxyerygkw .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#pherfncvzi .gt_indent_5 {
+&#10;#dcxyerygkw .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -478,125 +478,125 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
     </tr>
   </thead>
   <tbody class="gt_table_body">
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">G Nero vom Buchonia IGP3</td>
-<td headers="KKL" class="gt_row gt_left" style="50px">Yes</td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">March 9, 2013</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">88</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Faine Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Falco Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Forest Ranger Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Fallon Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Yogi vom Owenberg</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Fast Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">SG Brynn vom Adlerland IGP2</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">August 28, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Excellent; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Banshee vom Aderland ACT2</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">August 28, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Baha vom Aderland CGC</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">August 28, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Baalos vom Aderland</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">August 28, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Tesla vom Wildhaus IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">January 13, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Trauma vom Wildhaus IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">January 13, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Excellent; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Torque vom Wildhaus</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">January 13, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">NA; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Chimera von Bairdhaus</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">January 13, 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Mittlere; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">120</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">SG Halo z Tammik BH</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">September 15, 2020</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">Blackthorn's Game Changer</td>
-<td headers="KKL" class="gt_row gt_left" style="50px"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">November 20, 2020</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="50px">G Kikki von Bairdhaus IGP3</td>
-<td headers="KKL" class="gt_row gt_left" style="50px">Yes</td>
-<td headers="BirthDate" class="gt_row gt_left" style="50px">December 20, 2020</td>
-<td headers="Sex" class="gt_row gt_left" style="50px">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="50px">grau</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="50px">a-fast normal; Fast Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="50px">99</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">G Nero vom Buchonia IGP3</td>
+<td headers="KKL" class="gt_row gt_left" style="100px">Yes</td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">March 9, 2013</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">88</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Faine Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Falco Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Forest Ranger Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Fallon Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Yogi vom Owenberg</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Fast Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">SG Brynn vom Adlerland IGP2</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">August 28, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Excellent; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Banshee vom Aderland ACT2</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">August 28, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Baha vom Aderland CGC</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">August 28, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Baalos vom Aderland</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">August 28, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Tesla vom Wildhaus IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">January 13, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Trauma vom Wildhaus IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">January 13, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Excellent; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Torque vom Wildhaus</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">January 13, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">NA; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Chimera von Bairdhaus</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">January 13, 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Mittlere; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">120</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">SG Halo z Tammik BH</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">September 15, 2020</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">Blackthorn's Game Changer</td>
+<td headers="KKL" class="gt_row gt_left" style="100px"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">November 20, 2020</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="100px">G Kikki von Bairdhaus IGP3</td>
+<td headers="KKL" class="gt_row gt_left" style="100px">Yes</td>
+<td headers="BirthDate" class="gt_row gt_left" style="100px">December 20, 2020</td>
+<td headers="Sex" class="gt_row gt_left" style="100px">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="100px">grau</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px">a‑fast normal; Fast Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="100px">99</td></tr>
   </tbody>
   &#10;  
 </table>
