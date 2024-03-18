@@ -115,7 +115,9 @@ nero_data %>%
     Colour = md("**Colour**"),
     HipsAndElbowsRating = md("**Hips And Elbows Rating**"),
     ZW = md("**ZW**")
-  )
+    ) %>%
+    #apply a preset style theme to the table  
+    opt_stylize(style = 2, color = "blue")
    
 ```
 

@@ -73,20 +73,20 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 
 ## The Dataset: Nero vom Buchonia’s Offspring
 
-<div id="yoyxyzytph" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#yoyxyzytph table {
+<div id="rnxyaljcvk" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#rnxyaljcvk table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#yoyxyzytph thead, #yoyxyzytph tbody, #yoyxyzytph tfoot, #yoyxyzytph tr, #yoyxyzytph td, #yoyxyzytph th {
+&#10;#rnxyaljcvk thead, #rnxyaljcvk tbody, #rnxyaljcvk tfoot, #rnxyaljcvk tr, #rnxyaljcvk td, #rnxyaljcvk th {
   border-style: none;
 }
-&#10;#yoyxyzytph p {
+&#10;#rnxyaljcvk p {
   margin: 0;
   padding: 0;
 }
-&#10;#yoyxyzytph .gt_table {
+&#10;#rnxyaljcvk .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -99,23 +99,23 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   background-color: #FFFFFF;
   width: auto;
   border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
+  border-top-width: 3px;
+  border-top-color: #D5D5D5;
+  border-right-style: solid;
+  border-right-width: 3px;
+  border-right-color: #D5D5D5;
   border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
+  border-bottom-width: 3px;
+  border-bottom-color: #D5D5D5;
+  border-left-style: solid;
+  border-left-width: 3px;
+  border-left-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_caption {
+&#10;#rnxyaljcvk .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#yoyxyzytph .gt_title {
+&#10;#rnxyaljcvk .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -126,7 +126,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#yoyxyzytph .gt_subtitle {
+&#10;#rnxyaljcvk .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -137,7 +137,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#yoyxyzytph .gt_heading {
+&#10;#rnxyaljcvk .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -148,18 +148,18 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#yoyxyzytph .gt_bottom_border {
+&#10;#rnxyaljcvk .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_col_headings {
+&#10;#rnxyaljcvk .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
-  border-top-color: #D3D3D3;
+  border-top-color: #D5D5D5;
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
   border-left-style: none;
   border-left-width: 1px;
   border-left-color: #D3D3D3;
@@ -167,9 +167,9 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#yoyxyzytph .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
+&#10;#rnxyaljcvk .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #004D80;
   font-size: 100%;
   font-weight: normal;
   text-transform: inherit;
@@ -186,9 +186,9 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#yoyxyzytph .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
+&#10;#rnxyaljcvk .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #004D80;
   font-size: 100%;
   font-weight: normal;
   text-transform: inherit;
@@ -197,16 +197,16 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#yoyxyzytph .gt_column_spanner_outer:first-child {
+&#10;#rnxyaljcvk .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#yoyxyzytph .gt_column_spanner_outer:last-child {
+&#10;#rnxyaljcvk .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#yoyxyzytph .gt_column_spanner {
+&#10;#rnxyaljcvk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
   vertical-align: bottom;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -214,10 +214,10 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   display: inline-block;
   width: 100%;
 }
-&#10;#yoyxyzytph .gt_spanner_row {
+&#10;#rnxyaljcvk .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#yoyxyzytph .gt_group_heading {
+&#10;#rnxyaljcvk .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -229,10 +229,10 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   text-transform: inherit;
   border-top-style: solid;
   border-top-width: 2px;
-  border-top-color: #D3D3D3;
+  border-top-color: #D5D5D5;
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
   border-left-style: none;
   border-left-width: 1px;
   border-left-color: #D3D3D3;
@@ -242,7 +242,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   vertical-align: middle;
   text-align: left;
 }
-&#10;#yoyxyzytph .gt_empty_group_heading {
+&#10;#rnxyaljcvk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -250,19 +250,19 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   font-weight: initial;
   border-top-style: solid;
   border-top-width: 2px;
-  border-top-color: #D3D3D3;
+  border-top-color: #D5D5D5;
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
   vertical-align: middle;
 }
-&#10;#yoyxyzytph .gt_from_md > :first-child {
+&#10;#rnxyaljcvk .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#yoyxyzytph .gt_from_md > :last-child {
+&#10;#rnxyaljcvk .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#yoyxyzytph .gt_row {
+&#10;#rnxyaljcvk .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -270,17 +270,17 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   margin: 10px;
   border-top-style: solid;
   border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
+  border-top-color: #89D3FE;
+  border-left-style: solid;
   border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
+  border-left-color: #89D3FE;
+  border-right-style: solid;
   border-right-width: 1px;
-  border-right-color: #D3D3D3;
+  border-right-color: #89D3FE;
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#yoyxyzytph .gt_stub {
+&#10;#rnxyaljcvk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -288,11 +288,11 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   text-transform: inherit;
   border-right-style: solid;
   border-right-width: 2px;
-  border-right-color: #D3D3D3;
+  border-right-color: #5F5F5F;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#yoyxyzytph .gt_stub_row_group {
+&#10;#rnxyaljcvk .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -305,76 +305,76 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#yoyxyzytph .gt_row_group_first td {
+&#10;#rnxyaljcvk .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#yoyxyzytph .gt_row_group_first th {
+&#10;#rnxyaljcvk .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#yoyxyzytph .gt_summary_row {
+&#10;#rnxyaljcvk .gt_summary_row {
   color: #333333;
-  background-color: #FFFFFF;
+  background-color: #89D3FE;
   text-transform: inherit;
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#yoyxyzytph .gt_first_summary_row {
+&#10;#rnxyaljcvk .gt_first_summary_row {
   border-top-style: solid;
-  border-top-color: #D3D3D3;
+  border-top-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_first_summary_row.thick {
+&#10;#rnxyaljcvk .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#yoyxyzytph .gt_last_summary_row {
+&#10;#rnxyaljcvk .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
   padding-right: 5px;
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
+&#10;#rnxyaljcvk .gt_grand_summary_row {
+  color: #FFFFFF;
+  background-color: #00A1FF;
   text-transform: inherit;
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#yoyxyzytph .gt_first_grand_summary_row {
+&#10;#rnxyaljcvk .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
   padding-right: 5px;
   border-top-style: double;
   border-top-width: 6px;
-  border-top-color: #D3D3D3;
+  border-top-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_last_grand_summary_row_top {
+&#10;#rnxyaljcvk .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
   padding-right: 5px;
   border-bottom-style: double;
   border-bottom-width: 6px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
+&#10;#rnxyaljcvk .gt_striped {
+  background-color: #F4F4F4;
 }
-&#10;#yoyxyzytph .gt_table_body {
+&#10;#rnxyaljcvk .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
-  border-top-color: #D3D3D3;
+  border-top-color: #D5D5D5;
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
+  border-bottom-color: #D5D5D5;
 }
-&#10;#yoyxyzytph .gt_footnotes {
+&#10;#rnxyaljcvk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -387,7 +387,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#yoyxyzytph .gt_footnote {
+&#10;#rnxyaljcvk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -395,7 +395,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#yoyxyzytph .gt_sourcenotes {
+&#10;#rnxyaljcvk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -408,57 +408,57 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#yoyxyzytph .gt_sourcenote {
+&#10;#rnxyaljcvk .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#yoyxyzytph .gt_left {
+&#10;#rnxyaljcvk .gt_left {
   text-align: left;
 }
-&#10;#yoyxyzytph .gt_center {
+&#10;#rnxyaljcvk .gt_center {
   text-align: center;
 }
-&#10;#yoyxyzytph .gt_right {
+&#10;#rnxyaljcvk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#yoyxyzytph .gt_font_normal {
+&#10;#rnxyaljcvk .gt_font_normal {
   font-weight: normal;
 }
-&#10;#yoyxyzytph .gt_font_bold {
+&#10;#rnxyaljcvk .gt_font_bold {
   font-weight: bold;
 }
-&#10;#yoyxyzytph .gt_font_italic {
+&#10;#rnxyaljcvk .gt_font_italic {
   font-style: italic;
 }
-&#10;#yoyxyzytph .gt_super {
+&#10;#rnxyaljcvk .gt_super {
   font-size: 65%;
 }
-&#10;#yoyxyzytph .gt_footnote_marks {
+&#10;#rnxyaljcvk .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#yoyxyzytph .gt_asterisk {
+&#10;#rnxyaljcvk .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#yoyxyzytph .gt_indent_1 {
+&#10;#rnxyaljcvk .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#yoyxyzytph .gt_indent_2 {
+&#10;#rnxyaljcvk .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#yoyxyzytph .gt_indent_3 {
+&#10;#rnxyaljcvk .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#yoyxyzytph .gt_indent_4 {
+&#10;#rnxyaljcvk .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#yoyxyzytph .gt_indent_5 {
+&#10;#rnxyaljcvk .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -485,13 +485,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">grey</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
 <td headers="ZW" class="gt_row gt_right">88</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Faine Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left">Male</td>
-<td headers="Colour" class="gt_row gt_left">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Faine Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Male</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">black-tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">a-normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped">80</td></tr>
     <tr><td headers="Name" class="gt_row gt_left">Falco Auf der Marquis IGP1</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">May 10, 2019</td>
@@ -499,13 +499,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">grey</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
 <td headers="ZW" class="gt_row gt_right">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Forest Ranger Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left">Male</td>
-<td headers="Colour" class="gt_row gt_left">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Forest Ranger Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Male</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">a-normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped">80</td></tr>
     <tr><td headers="Name" class="gt_row gt_left">Fallon Auf der Marquis IGP1</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">May 10, 2019</td>
@@ -513,13 +513,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">bicolor</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
 <td headers="ZW" class="gt_row gt_right">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Yogi vom Owenberg</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">May 10, 2019</td>
-<td headers="Sex" class="gt_row gt_left">Male</td>
-<td headers="Colour" class="gt_row gt_left">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Fast Normal</td>
-<td headers="ZW" class="gt_row gt_right">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Yogi vom Owenberg</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">May 10, 2019</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Male</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">black-tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">a-normal; Fast Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped">80</td></tr>
     <tr><td headers="Name" class="gt_row gt_left">SG Brynn vom Adlerland IGP2</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">August 28, 2018</td>
@@ -527,13 +527,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">sable</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">Excellent; Normal</td>
 <td headers="ZW" class="gt_row gt_right"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Banshee vom Aderland ACT2</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">August 28, 2018</td>
-<td headers="Sex" class="gt_row gt_left">Female</td>
-<td headers="Colour" class="gt_row gt_left">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Banshee vom Aderland ACT2</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">August 28, 2018</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Female</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped"></td></tr>
     <tr><td headers="Name" class="gt_row gt_left">Baha vom Aderland CGC</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">August 28, 2018</td>
@@ -541,13 +541,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">black-tan</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">Good; Normal</td>
 <td headers="ZW" class="gt_row gt_right"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Baalos vom Aderland</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">August 28, 2018</td>
-<td headers="Sex" class="gt_row gt_left">Male</td>
-<td headers="Colour" class="gt_row gt_left">black-tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Baalos vom Aderland</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">August 28, 2018</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Male</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">black-tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped"></td></tr>
     <tr><td headers="Name" class="gt_row gt_left">Tesla vom Wildhaus IGP1</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">January 13, 2018</td>
@@ -555,13 +555,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">black-tan</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
 <td headers="ZW" class="gt_row gt_right">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Trauma vom Wildhaus IGP1</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">January 13, 2018</td>
-<td headers="Sex" class="gt_row gt_left">Female</td>
-<td headers="Colour" class="gt_row gt_left">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">Excellent; Normal</td>
-<td headers="ZW" class="gt_row gt_right"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Trauma vom Wildhaus IGP1</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">January 13, 2018</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Female</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">Excellent; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped"></td></tr>
     <tr><td headers="Name" class="gt_row gt_left">Torque vom Wildhaus</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">January 13, 2018</td>
@@ -569,13 +569,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">bicolor</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">NA; Normal</td>
 <td headers="ZW" class="gt_row gt_right"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Chimera von Bairdhaus</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">January 13, 2018</td>
-<td headers="Sex" class="gt_row gt_left">Female</td>
-<td headers="Colour" class="gt_row gt_left">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">Mittlere; Normal</td>
-<td headers="ZW" class="gt_row gt_right">120</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Chimera von Bairdhaus</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">January 13, 2018</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Female</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">Mittlere; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped">120</td></tr>
     <tr><td headers="Name" class="gt_row gt_left">SG Halo z Tammik BH</td>
 <td headers="KKL" class="gt_row gt_left"></td>
 <td headers="BirthDate" class="gt_row gt_left">September 15, 2020</td>
@@ -583,13 +583,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 <td headers="Colour" class="gt_row gt_left">black-tan</td>
 <td headers="HipsAndElbowsRating" class="gt_row gt_left">a-normal; Normal</td>
 <td headers="ZW" class="gt_row gt_right">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left">Blackthorn's Game Changer</td>
-<td headers="KKL" class="gt_row gt_left"></td>
-<td headers="BirthDate" class="gt_row gt_left">November 20, 2020</td>
-<td headers="Sex" class="gt_row gt_left">Male</td>
-<td headers="Colour" class="gt_row gt_left">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left gt_striped">Blackthorn's Game Changer</td>
+<td headers="KKL" class="gt_row gt_left gt_striped"></td>
+<td headers="BirthDate" class="gt_row gt_left gt_striped">November 20, 2020</td>
+<td headers="Sex" class="gt_row gt_left gt_striped">Male</td>
+<td headers="Colour" class="gt_row gt_left gt_striped">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left gt_striped">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right gt_striped"></td></tr>
     <tr><td headers="Name" class="gt_row gt_left">G Kikki von Bairdhaus IGP3</td>
 <td headers="KKL" class="gt_row gt_left">Yes</td>
 <td headers="BirthDate" class="gt_row gt_left">December 20, 2020</td>
