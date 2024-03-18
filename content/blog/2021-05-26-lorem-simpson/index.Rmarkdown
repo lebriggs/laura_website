@@ -1,14 +1,15 @@
 ---
-title: "Lorem Simpson"
-subtitle: ""
-excerpt: "An .Rmarkdown post"
-date: 2021-05-26
-author: "Alison Hill"
+title: "Dataset For The Data Pre-Analysis PLan Workshop"
+subtitle: "Nero Vom Buchonia Offspring Data"
+excerpt: "Summary goes here."
+date: 2024-03-18
+author: "Laura Briggs"
 draft: false
 images:
 series:
 tags:
 categories:
+  - GSD data
 layout: single
 ---
 
@@ -17,14 +18,12 @@ layout: single
 ## Some penguins to start
 
 ```{r}
-library(tidyverse)
-library(palmerpenguins)
+#library(tidyverse)
+#library(palmerpenguins)
 ```
 
 ```{r}
-ggplot(data = penguins, aes(x = flipper_length_mm)) +
-  geom_histogram(aes(fill = species), alpha = 0.5, position = "identity") +
-  scale_fill_manual(values = c("darkorange","darkorchid","cyan4"))
+
 ```
 
 
