@@ -1,10 +1,10 @@
 ---
-title: Blog
+title: The Blog
 description: |
-  Laura's random thoughts.
+  A place to collect Laura's random thoughts.
 author: "Laura Briggs"
 show_post_thumbnail: true
-show_author_byline: true
+show_author_byline: false
 show_post_date: true
 # for listing page layout
 layout: list-grid # list, list-sidebar, list-grid
