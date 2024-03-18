@@ -130,7 +130,7 @@ nero_data %>%
     ) %>%
     #increase the cell spacing
     tab_style(
-      style = list(cellPadding = px(100)),
+      style = list(cellPadding = px(10)),
       locations = cells_body()
     ) %>%
   #add gridlines to the table
@@ -144,6 +144,15 @@ nero_data %>%
     ),
     #apply to body cells
     locations = cells_body()  
+  ) %>%
+  tab_style(
+    style = list(
+      cell_borders(
+        sides = c("top", "left"),  # remove top and left borders
+        weight = px(0)  # set border weight to 0
+      )
+    ),
+    locations = cells_body(rows = 1, columns = 1)  # apply to the top-left cell
   )
  
 ```

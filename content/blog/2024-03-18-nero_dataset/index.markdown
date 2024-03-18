@@ -73,20 +73,20 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
 
 ### The Dataset: Nero vom Buchonia’s Offspring
 
-<div id="sdsjaqljxi" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#sdsjaqljxi table {
+<div id="hoquarnihx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#hoquarnihx table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#sdsjaqljxi thead, #sdsjaqljxi tbody, #sdsjaqljxi tfoot, #sdsjaqljxi tr, #sdsjaqljxi td, #sdsjaqljxi th {
+&#10;#hoquarnihx thead, #hoquarnihx tbody, #hoquarnihx tfoot, #hoquarnihx tr, #hoquarnihx td, #hoquarnihx th {
   border-style: none;
 }
-&#10;#sdsjaqljxi p {
+&#10;#hoquarnihx p {
   margin: 0;
   padding: 0;
 }
-&#10;#sdsjaqljxi .gt_table {
+&#10;#hoquarnihx .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -111,11 +111,11 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_caption {
+&#10;#hoquarnihx .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#sdsjaqljxi .gt_title {
+&#10;#hoquarnihx .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -126,7 +126,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#sdsjaqljxi .gt_subtitle {
+&#10;#hoquarnihx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -137,7 +137,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#sdsjaqljxi .gt_heading {
+&#10;#hoquarnihx .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -148,12 +148,12 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_bottom_border {
+&#10;#hoquarnihx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_col_headings {
+&#10;#hoquarnihx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -167,7 +167,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_col_heading {
+&#10;#hoquarnihx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -186,7 +186,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#sdsjaqljxi .gt_column_spanner_outer {
+&#10;#hoquarnihx .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -197,13 +197,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#sdsjaqljxi .gt_column_spanner_outer:first-child {
+&#10;#hoquarnihx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#sdsjaqljxi .gt_column_spanner_outer:last-child {
+&#10;#hoquarnihx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#sdsjaqljxi .gt_column_spanner {
+&#10;#hoquarnihx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -214,10 +214,10 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   display: inline-block;
   width: 100%;
 }
-&#10;#sdsjaqljxi .gt_spanner_row {
+&#10;#hoquarnihx .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#sdsjaqljxi .gt_group_heading {
+&#10;#hoquarnihx .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -242,7 +242,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   vertical-align: middle;
   text-align: left;
 }
-&#10;#sdsjaqljxi .gt_empty_group_heading {
+&#10;#hoquarnihx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -256,13 +256,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#sdsjaqljxi .gt_from_md > :first-child {
+&#10;#hoquarnihx .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#sdsjaqljxi .gt_from_md > :last-child {
+&#10;#hoquarnihx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#sdsjaqljxi .gt_row {
+&#10;#hoquarnihx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -280,7 +280,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#sdsjaqljxi .gt_stub {
+&#10;#hoquarnihx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -292,7 +292,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#sdsjaqljxi .gt_stub_row_group {
+&#10;#hoquarnihx .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -305,13 +305,13 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#sdsjaqljxi .gt_row_group_first td {
+&#10;#hoquarnihx .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#sdsjaqljxi .gt_row_group_first th {
+&#10;#hoquarnihx .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#sdsjaqljxi .gt_summary_row {
+&#10;#hoquarnihx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -320,14 +320,14 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#sdsjaqljxi .gt_first_summary_row {
+&#10;#hoquarnihx .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_first_summary_row.thick {
+&#10;#hoquarnihx .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#sdsjaqljxi .gt_last_summary_row {
+&#10;#hoquarnihx .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -336,7 +336,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_grand_summary_row {
+&#10;#hoquarnihx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -345,7 +345,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#sdsjaqljxi .gt_first_grand_summary_row {
+&#10;#hoquarnihx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -354,7 +354,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_last_grand_summary_row_top {
+&#10;#hoquarnihx .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -363,10 +363,10 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_striped {
+&#10;#hoquarnihx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#sdsjaqljxi .gt_table_body {
+&#10;#hoquarnihx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -374,7 +374,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_footnotes {
+&#10;#hoquarnihx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -387,7 +387,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_footnote {
+&#10;#hoquarnihx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -395,7 +395,7 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#sdsjaqljxi .gt_sourcenotes {
+&#10;#hoquarnihx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -408,57 +408,57 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#sdsjaqljxi .gt_sourcenote {
+&#10;#hoquarnihx .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#sdsjaqljxi .gt_left {
+&#10;#hoquarnihx .gt_left {
   text-align: left;
 }
-&#10;#sdsjaqljxi .gt_center {
+&#10;#hoquarnihx .gt_center {
   text-align: center;
 }
-&#10;#sdsjaqljxi .gt_right {
+&#10;#hoquarnihx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#sdsjaqljxi .gt_font_normal {
+&#10;#hoquarnihx .gt_font_normal {
   font-weight: normal;
 }
-&#10;#sdsjaqljxi .gt_font_bold {
+&#10;#hoquarnihx .gt_font_bold {
   font-weight: bold;
 }
-&#10;#sdsjaqljxi .gt_font_italic {
+&#10;#hoquarnihx .gt_font_italic {
   font-style: italic;
 }
-&#10;#sdsjaqljxi .gt_super {
+&#10;#hoquarnihx .gt_super {
   font-size: 65%;
 }
-&#10;#sdsjaqljxi .gt_footnote_marks {
+&#10;#hoquarnihx .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#sdsjaqljxi .gt_asterisk {
+&#10;#hoquarnihx .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#sdsjaqljxi .gt_indent_1 {
+&#10;#hoquarnihx .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#sdsjaqljxi .gt_indent_2 {
+&#10;#hoquarnihx .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#sdsjaqljxi .gt_indent_3 {
+&#10;#hoquarnihx .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#sdsjaqljxi .gt_indent_4 {
+&#10;#hoquarnihx .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#sdsjaqljxi .gt_indent_5 {
+&#10;#hoquarnihx .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -478,125 +478,125 @@ Thank you to Jennifer Lee, Nero’s owner, for helping to create this dataset fo
     </tr>
   </thead>
   <tbody class="gt_table_body">
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">G Nero vom Buchonia IGP3</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Yes</td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">March 9 ,​ 2013</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">88</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Faine Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Falco Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Forest Ranger Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Fallon Auf der Marquis IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Yogi vom Owenberg</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Fast Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">SG Brynn vom Adlerland IGP2</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Excellent; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Banshee vom Aderland ACT2</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Baha vom Aderland CGC</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Baalos vom Aderland</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Tesla vom Wildhaus IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Trauma vom Wildhaus IGP1</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Excellent; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Torque vom Wildhaus</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">bicolor</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">NA; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Chimera von Bairdhaus</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Mittlere; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">120</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">SG Halo z Tammik BH</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">September 15 ,​ 2020</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Blackthorn's Game Changer</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">November 20 ,​ 2020</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">sable</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
-    <tr><td headers="Name" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">G Kikki von Bairdhaus IGP3</td>
-<td headers="KKL" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Yes</td>
-<td headers="BirthDate" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">December 20 ,​ 2020</td>
-<td headers="Sex" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
-<td headers="Colour" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grau</td>
-<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑fast normal; Fast Normal</td>
-<td headers="ZW" class="gt_row gt_right" style="100px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">99</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 0px; border-left-style: solid; border-left-color: #000000; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 0px; border-top-style: solid; border-top-color: #000000; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">G Nero vom Buchonia IGP3</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Yes</td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">March 9 ,​ 2013</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">88</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Faine Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Falco Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Forest Ranger Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Fallon Auf der Marquis IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Yogi vom Owenberg</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">May 10 ,​ 2019</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Fast Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">SG Brynn vom Adlerland IGP2</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Excellent; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Banshee vom Aderland ACT2</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Baha vom Aderland CGC</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Baalos vom Aderland</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">August 28 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Tesla vom Wildhaus IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Trauma vom Wildhaus IGP1</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Excellent; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Torque vom Wildhaus</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">bicolor</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">NA; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Chimera von Bairdhaus</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">January 13 ,​ 2018</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grey</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Mittlere; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">120</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">SG Halo z Tammik BH</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">September 15 ,​ 2020</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">black‑tan</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑normal; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">80</td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Blackthorn's Game Changer</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">November 20 ,​ 2020</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Male</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">sable</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Good; Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;"></td></tr>
+    <tr><td headers="Name" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">G Kikki von Bairdhaus IGP3</td>
+<td headers="KKL" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Yes</td>
+<td headers="BirthDate" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">December 20 ,​ 2020</td>
+<td headers="Sex" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">Female</td>
+<td headers="Colour" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">grau</td>
+<td headers="HipsAndElbowsRating" class="gt_row gt_left" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">a‑fast normal; Fast Normal</td>
+<td headers="ZW" class="gt_row gt_right" style="10px border-left-width: 1px; border-left-style: solid; border-left-color: black; border-right-width: 1px; border-right-style: solid; border-right-color: black; border-top-width: 1px; border-top-style: solid; border-top-color: black; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: black;">99</td></tr>
   </tbody>
   &#10;  
 </table>
