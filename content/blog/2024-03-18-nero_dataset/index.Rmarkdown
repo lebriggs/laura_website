@@ -1,5 +1,5 @@
 ---
-title: "Information For The Data Pre-Analysis PLan Workshop"
+title: "Information For The Data Pre-Analysis Plan Workshop"
 subtitle: "Instructions And Dataset"
 excerpt: "Information required for a 30-minute hands-on workshop exploring the world of effective data pre-analysis planning using Canva. 
 
@@ -79,12 +79,44 @@ For educational purposes, web scraping is permitted in order to access the data 
 
 ### Acknowledgement:
 
-Thank you to Jennifer Lee, Nero's owner, for generously granting permission to use this dataset during the workshop.
+Thank you to Jennifer Lee, Nero's owner, for helping to create this dataset for the workshop.
 
 ## The Dataset: Nero vom Buchonia’s Offspring
 
-```{r}
+```{r Offspring Data, include=FALSE}
+#create the dataframe for the Nero vom Buchonia offspring data
 
+nero_data <- data.frame("Name" = c("G Nero vom Buchonia IGP3", "Faine Auf der Marquis IGP1", "Falco Auf der Marquis IGP1", "Forest Ranger Auf der Marquis IGP1", "Fallon Auf der Marquis IGP1", "Yogi vom Owenberg", "SG Brynn vom Adlerland IGP2", "Banshee vom Aderland ACT2", "Baha vom Aderland CGC", "Baalos vom Aderland", "Tesla vom Wildhaus IGP1", "Trauma vom Wildhaus IGP1", "Torque vom Wildhaus", "Chimera von Bairdhaus", "SG Halo z Tammik BH", "Blackthorn's Game Changer", "G Kikki von Bairdhaus IGP3"),
+  "KKL" = c("Yes","", "", "", "", "", "", "", "", "","", "", "", "", "", "", "Yes"),
+  "BirthDate" = c("March 9, 2013", "May 10, 2019", "May 10, 2019", "May 10, 2019", "May 10, 2019", "May 10, 2019", "August 28, 2018", "August 28, 2018", "August 28, 2018", "August 28, 2018", "January 13, 2018", "January 13, 2018", "January 13, 2018", "January 13, 2018", "September 15, 2020", "November 20, 2020", "December 20, 2020"),
+  "Sex" = c("Male", "Male", "Male", "Male", "Female", "Male", "Female", "Female", "Female", "Male", "Female", "Female", "Male", "Female", "Male", "Male", "Female"),
+  "Colour" = c("grey", "black-tan", "grey", "grey", "bicolor", "black-tan", "sable", "bicolor", "black-tan", "black-tan", "black-tan", "sable", "bicolor", "grey", "black-tan", "sable", "grau"),
+"HipsAndElbowsRating" = c("a-normal; Normal", "a-normal; Normal", "a-normal; Normal", "a-normal; Normal", "a-normal; Normal", "a-normal; Fast Normal", "Excellent; Normal", "Good; Normal", "Good; Normal", "Good; Normal", "a-normal; Normal", "Excellent; Normal", "NA; Normal", "Mittlere; Normal", "a-normal; Normal", "Good; Normal", "a-fast normal; Fast Normal"),
+"ZW" = c(88, 80, 80, 80, 80, 80, "", "", "", "",80, "", "", 120, 80, "", 99)
+)
+                        
+```
+
+```{r Output Table, echo=FALSE}
+#create a display table using the gt library
+
+nero_data %>%
+  gt() %>%
+    #add a title
+    tab_header(
+    title = md("**Nero vom Buchonia Offspring Data**")
+    ) %>%
+    #bold and format the column names
+    cols_label(
+    Name = md("**Name**"),
+    KKL = md("**KKL**"),
+    BirthDate = md("**Birth Date**"),
+    Sex = md("**Sex**"),
+    Colour = md("**Colour**"),
+    HipsAndElbowsRating = md("**Hips And Elbows Rating**"),
+    ZW = md("**ZW**")
+  )
+   
 ```
 
 
