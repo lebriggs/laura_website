@@ -128,21 +128,20 @@ nero_data %>%
       HipsAndElbowsRating = md("**Hips And Elbows Rating**"),
       ZW = md("**ZW**")
     ) %>%
-    # Add HTML code to center the content in the cells
+    #add HTML code to center the content in the cells
     tab_style(
       style = list(
-      cell_text(align = "center")
+      cell_text(align = "center") #center align text in cells
     ),
-      locations = cells_body()
+      locations = cells_body() #apply styling to table body cells
   ) %>%
+   #add HTML code to center the content in the cells of the header
     tab_style(
-      style = list(
+    style = list(
       cell_text(align = "center")
     ),
-      locations = cells_stub()
-    )
-
-  
+    locations = cells_stub() #apply the HTML code to center the content in the cells of the header
+  ) 
 ```
 
 
