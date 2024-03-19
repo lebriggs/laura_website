@@ -26,6 +26,8 @@ enableEmoji = true
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/ 
     style = "github"
+  [markup.goldmark.extensions]
+    table = true
     
 [params]
   orgName = "L. E. Briggs"
