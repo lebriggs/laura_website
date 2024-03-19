@@ -102,13 +102,10 @@ nero_data <- data.frame("Name" = c("G Nero vom Buchonia IGP3", "Faine Auf der Ma
 
 nero_data %>%
   gt() %>%
-    #prevent the cells from breaking at hyphens and commas
+    #prevent the cells from breaking at hyphens
     text_transform(
-    locations = cells_body(),  # apply to body cells
-    fn = function(x) {
-      x <- gsub("-", "\u2011", x)  # replace hyphens with non-breaking hyphens
-      gsub(",", "\u202F,\u200B", x)  # replace commas with non-breaking comma
-    }
+    locations = cells_body(),  #apply to body cells
+    fn = function(x) gsub("-", "\u2011", x)  #replace hyphens with non-breaking hyphens
     ) %>%
     #add a title
     tab_header(
@@ -148,11 +145,12 @@ nero_data %>%
   tab_style(
     style = list(
       cell_borders(
-        sides = c("top", "left"),  # remove top and left borders
-        weight = px(0)  # set border weight to 0
+        sides = c("top", "left"),  #remove top and left borders
+        weight = px(0),  #set border weight to 0
+        color = "transparent"
       )
     ),
-    locations = cells_body(rows = 1, columns = 1)  # apply to the top-left cell
+    locations = cells_body() #apply to body cells 
   )
  
 ```
