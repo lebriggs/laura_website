@@ -103,7 +103,12 @@ nero_data <- data.frame("Name" = c("G Nero vom Buchonia IGP3", "Faine Auf der Ma
 nero_data %>%
   gt() %>%
   #apply the fancy NT TImes theme
-  gtExtras::gt_theme_nytimes() %>% 
+  gtExtras::gt_theme_nytimes() %>%
+  #center the data in the columns except the Name column
+  cols_align(
+    align = "center",
+    columns = -1
+  ) %>%
     #prevent the cells from breaking at hyphens
     text_transform(
     locations = cells_body(),  #apply to body cells
