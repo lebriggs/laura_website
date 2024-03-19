@@ -104,10 +104,10 @@ nero_data %>%
   gt() %>%
   #apply the fancy NT TImes theme
   gtExtras::gt_theme_nytimes() %>%
-  #center the data in the columns except the Name column
+  #center the data in the columns except the first column
     cols_align(
       align = "center",
-      columns =  vars(-1)
+      columns =  c(2:7)
     ) %>%
     #prevent the cells from breaking at hyphens
     text_transform(
