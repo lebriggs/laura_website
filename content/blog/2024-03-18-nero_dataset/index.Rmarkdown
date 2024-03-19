@@ -22,10 +22,10 @@ layout: single
 
 ```{r Libraries, include=FALSE}
 #install required packages
-install.packages(c("gt", "tidyverse"))
+install.packages(c("gt", "tidyverse", "gtExtras"))
 
 #load libraries
-r_packages <- c("gt", "tidyverse")
+r_packages <- c("gt", "tidyverse", "gtExtras")
 lapply(r_packages, require, character.only = TRUE) 
 
 ```
@@ -102,6 +102,8 @@ nero_data <- data.frame("Name" = c("G Nero vom Buchonia IGP3", "Faine Auf der Ma
 
 nero_data %>%
   gt() %>%
+  #apply the fancy NT TImes theme
+  gtExtras::gt_theme_nytimes() %>% 
     #prevent the cells from breaking at hyphens
     text_transform(
     locations = cells_body(),  #apply to body cells
@@ -129,33 +131,8 @@ nero_data %>%
     tab_style(
       style = list(cellPadding = px(10)),
       locations = cells_body()
-    ) %>%
-  #add gridlines to the table
-  tab_style(
-    style = list(
-      cell_borders(
-        sides = "all",
-        color = "black",
-        weight = px(1)
-      )
-    ),
-    #apply to body cells
-    locations = cells_body()  
-  ) %>%
-  #remove double borders at cell intersections
-  tab_style(
-    style = list(
-    cell_borders(
-      sides = c("top", "left"),  # Remove top and left borders
-      weight = px(0),  # Set border weight to 0
-      color = "transparent"
     )
-  ),
-  #apply to body cells except the first row and the first column
-  locations = cells_body(rows = -1 + 2:nrow(nero_data), columns = -1 + 
-                           2:ncol(nero_data))  
-)
- 
+  
 ```
 
 
