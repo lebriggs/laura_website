@@ -142,16 +142,19 @@ nero_data %>%
     #apply to body cells
     locations = cells_body()  
   ) %>%
+  #remove double borders at cell intersections
   tab_style(
     style = list(
-      cell_borders(
-        sides = c("top", "left"),  #remove top and left borders
-        weight = px(0),  #set border weight to 0
-        color = "transparent"
-      )
-    ),
-    locations = cells_body() #apply to body cells 
-  )
+    cell_borders(
+      sides = c("top", "left"),  # Remove top and left borders
+      weight = px(0),  # Set border weight to 0
+      color = "transparent"
+    )
+  ),
+  #apply to body cells except the first row and the first column
+  locations = cells_body(rows = -1 + 2:nrow(nero_data), columns = -1 + 
+                           2:ncol(nero_data))  
+)
  
 ```
 
